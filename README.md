@@ -1,3 +1,19 @@
+POST LOGIN
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 114638" src="https://github.com/user-attachments/assets/2f7b8118-1660-4a1a-84bf-0a66cfe18a83" />
+GET PRODUCTS
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 114803" src="https://github.com/user-attachments/assets/0b937483-61b8-4db5-94ce-de73c3b9d118" />
+POST PRODUCTS
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 115049" src="https://github.com/user-attachments/assets/5b0f79a6-9857-4040-b60f-501304d9a6ec" />
+PUT PRODUCTS
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 115128" src="https://github.com/user-attachments/assets/066c6935-3eb8-4ddd-a4b6-b16272ca934a" />
+DELETE PRODUCTS
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 115147" src="https://github.com/user-attachments/assets/5814de28-98fb-4f15-a7f3-69ce9bc72386" />
+POST CHAT 
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 115314" src="https://github.com/user-attachments/assets/34055e80-d0ad-4247-8afb-fb614e60f896" />
+POST LOGOUT
+<img width="1919" height="1079" alt="Screenshot 2026-08-12 120720" src="https://github.com/user-attachments/assets/7eb44656-a0ea-4755-a8af-c7befb376ab5" />
+
+
 # CS Bot API — Generative AI + Prompt Engineering + Express/Sequelize
 
 API-only (tanpa view), demo customer service otomatis berbasis Gemini yang cuma boleh
